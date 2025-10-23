@@ -6,7 +6,7 @@ int main()
     printf("enter num1 and num2 : \n");
     scanf("%d%d", &num1, &num2);
 
-        num1 = num1 + num2;
+    num1 = num1 + num2;
     num2 = num1 - num2;
     num1 = num1 - num2;
     printf("num1 = %d\n", num1);
