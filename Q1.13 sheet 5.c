@@ -22,7 +22,7 @@ int main()
     printf("Enter the first number: ");
     scanf("%d", &n);
 
-    printf("Enter the fsecond number: ");
+    printf("Enter the second number: ");
     scanf("%d", &x);
 
     GCD(n, x);
